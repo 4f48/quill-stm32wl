@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "quill-stm32wl") (type "KiCad") (uri "${KIPRJMOD}/quill-stm32wl.pretty") (options "") (descr ""))
+)
