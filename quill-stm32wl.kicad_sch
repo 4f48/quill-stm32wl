@@ -8,6 +8,7 @@
 		(title "Quill STM32 WL")
 		(date "2026-05-07")
 		(rev "A")
+		(company "Copyright (C) 2026 Olivér Pirger")
 	)
 	(lib_symbols
 		(symbol "Battery_Management:MCP73831-2-OT"

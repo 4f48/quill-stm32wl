@@ -2,7 +2,7 @@
 
 An Adafruit Feather-sized STM32 development board with integrated 868 MHz LoRa radio.
 
-[//]: add the 3D render picture here later (do not forget)
+![3D render of Quill STM32 WL printed circuit board.](https://github.com/4f48/quill-stm32wl/blob/main/assets/3d_render.png)
 
 ## Features
 - 32-bit ARM Cortex-M4 48 MHz microcontroller
@@ -36,6 +36,7 @@ However, placing and soldering the SMD components on the board may prove difficu
 
 If you still want to make one of these yourself, feel free to explore these files in this repository, they will help greatly:
 
-- LINK TO PCB FILE
-- LINK TO BOM
-- LINK TO 3D MODEL (STEP)
+- Schematic: [schematic.svg](https://github.com/4f48/quill-stm32wl/blob/main/assets/schematic.svg)
+- KiCad PCB: [quill-stm32wl.kicad_pcb](https://github.com/4f48/quill-stm32wl/blob/main/quill-stm32wl.kicad_pcb)
+- Bill of Materials: [bom.csv](https://github.com/4f48/quill-stm32wl/blob/main/bom.csv)/[bom.ods](https://github.com/4f48/quill-stm32wl/blob/main/bom.ods)
+- 3D model: [quill_stm32wl.step](https://github.com/4f48/quill-stm32wl/blob/main/assets/quill_stm32wl.step)
