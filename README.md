@@ -42,5 +42,5 @@ If you still want to make one of these yourself, feel free to explore these file
 - 3D model: [quill_stm32wl.step](https://github.com/4f48/quill-stm32wl/blob/main/assets/quill_stm32wl.step)
 
 ## Fallout Zine
-Check out the magazine page for this project.
+Check out the magazine page for this project. Or [download PDF](https://raw.githubusercontent.com/4f48/quill-stm32wl/refs/heads/main/assets/magazine_page.pdf).
 ![Quill STM32 WL Fallout Zine page](https://github.com/4f48/quill-stm32wl/blob/main/assets/magazine_page.png)
