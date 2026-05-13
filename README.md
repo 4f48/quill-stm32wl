@@ -40,3 +40,7 @@ If you still want to make one of these yourself, feel free to explore these file
 - KiCad PCB: [quill-stm32wl.kicad_pcb](https://github.com/4f48/quill-stm32wl/blob/main/quill-stm32wl.kicad_pcb)
 - Bill of Materials: [bom.csv](https://github.com/4f48/quill-stm32wl/blob/main/bom.csv)/[bom.ods](https://github.com/4f48/quill-stm32wl/blob/main/bom.ods)
 - 3D model: [quill_stm32wl.step](https://github.com/4f48/quill-stm32wl/blob/main/assets/quill_stm32wl.step)
+
+## Fallout Zine
+Check out the magazine page for this project.
+![Quill STM32 WL Fallout Zine page](https://github.com/4f48/quill-stm32wl/blob/main/assets/magazine_page.png)
